@@ -95,6 +95,11 @@ money-manager/
 ```
 
 ## 🔧 **Code Architecture**
+<img width="3902" height="4824" alt="visual_diagram" src="https://github.com/user-attachments/assets/491d9095-531d-4149-b150-530f3689dd8e" />
+<img width="5225" height="4095" alt="dataflow_dia" src="https://github.com/user-attachments/assets/dba998f5-269f-4d67-aa47-d0fcd29e4ffc" />
+<img width="4882" height="1979" alt="func_dep_map" src="https://github.com/user-attachments/assets/9da03ebd-2394-4464-b45f-7c167c27c3a7" />
+
+
 
 ### **Core Modules**
 ```javascript
